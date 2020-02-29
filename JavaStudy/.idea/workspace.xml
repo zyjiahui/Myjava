@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cd10851-670f-4544-914f-b2666861f40d" name="Default Changelist" comment="" />
+    <list default="true" id="4cd10851-670f-4544-914f-b2666861f40d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/jiahui/IO/Testscanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,16 +26,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XQZE50M93s1ryRrNxdiOkfwNl6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PlaneGame0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../reStudyJava" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,22 +54,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
-  <component name="RunManager" selected="Application.IOTestCopyFile01">
+  <component name="RunManager" selected="Application.Testscanner">
     <configuration name="IOTestCopyFile01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.jiahui.IO.IOTestCopyFile01" />
-      <module name="JavaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.jiahui.IO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IOTestFlush" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.jiahui.IO.IOTestFlush" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -111,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Testscanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.jiahui.IO.Testscanner" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.jiahui.IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Testscanner" />
         <item itemvalue="Application.IOTestCopyFile01" />
         <item itemvalue="Application.IOTestOutput02" />
         <item itemvalue="Application.IOTestOutput03" />
         <item itemvalue="Application.IOTestOutput01" />
-        <item itemvalue="Application.IOTestFlush" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +155,8 @@
       <workItem from="1581840031027" duration="5897000" />
       <workItem from="1581993430217" duration="9815000" />
       <workItem from="1582080227789" duration="14431000" />
+      <workItem from="1582179911388" duration="4459000" />
+      <workItem from="1582615141129" duration="321000" />
     </task>
     <servers />
   </component>
@@ -153,26 +164,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1581908903572">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1582615254513">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581908903572" />
-    <state width="1493" height="129" key="GridCell.Tab.0.bottom" timestamp="1582104039452">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582615254513" />
+    <state width="1493" height="72" key="GridCell.Tab.0.bottom" timestamp="1582191504136">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="129" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582104039452" />
-    <state width="1493" height="129" key="GridCell.Tab.0.center" timestamp="1582104039452">
+    <state width="1493" height="72" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582191504136" />
+    <state width="1493" height="72" key="GridCell.Tab.0.center" timestamp="1582191504136">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="129" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582104039452" />
-    <state width="1493" height="129" key="GridCell.Tab.0.left" timestamp="1582104039452">
+    <state width="1493" height="72" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582191504136" />
+    <state width="1493" height="72" key="GridCell.Tab.0.left" timestamp="1582191504136">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="129" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582104039452" />
-    <state width="1493" height="129" key="GridCell.Tab.0.right" timestamp="1582104039452">
+    <state width="1493" height="72" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582191504136" />
+    <state width="1493" height="72" key="GridCell.Tab.0.right" timestamp="1582191504136">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="129" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582104039452" />
+    <state width="1493" height="72" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582191504136" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1581843163690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -193,21 +204,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582084848221" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582080227491">
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582615143086">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582080227491" />
-    <state x="178" y="22" key="new project wizard" timestamp="1581908905713">
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582615143086" />
+    <state x="178" y="22" key="new project wizard" timestamp="1582615429065">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1581908905713" />
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582615429065" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1582012982728">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1582012982728" />
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582014087539">
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582191091627">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582014087539" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582191091627" />
   </component>
 </project>
