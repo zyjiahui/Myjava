@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cd10851-670f-4544-914f-b2666861f40d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/jiahui/IO/Testscanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/cn/jiahui/IO/Testscanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaStudy/cn/jiahui/IO/Testscanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jiahui/JAVA/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jiahui/JAVA/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jiahui/JAVA/Sum1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jiahui/JAVA/Sum1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jiahui/JAVA/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jiahui/JAVA/Test02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +56,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
-  <component name="RunManager" selected="Application.Testscanner">
-    <configuration name="IOTestCopyFile01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.jiahui.IO.IOTestCopyFile01" />
+  <component name="RunManager" selected="Application.Sum">
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiahui.JAVA.Sum" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.jiahui.IO.*" />
+          <option name="PATTERN" value="com.jiahui.JAVA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOTestOutput01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.jiahui.IO.IOTestOutput01" />
+    <configuration name="Sum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiahui.JAVA.Sum1" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.jiahui.IO.*" />
+          <option name="PATTERN" value="com.jiahui.JAVA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,25 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOTestOutput02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.jiahui.IO.IOTestOutput02" />
+    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiahui.JAVA.Test02" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.jiahui.IO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IOTestOutput03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.jiahui.IO.IOTestOutput03" />
-      <module name="JavaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.jiahui.IO.*" />
+          <option name="PATTERN" value="com.jiahui.JAVA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiahui.JAVA.test01" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiahui.JAVA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.Test02" />
+        <item itemvalue="Application.Sum1" />
+        <item itemvalue="Application.test01" />
         <item itemvalue="Application.Testscanner" />
-        <item itemvalue="Application.IOTestCopyFile01" />
-        <item itemvalue="Application.IOTestOutput02" />
-        <item itemvalue="Application.IOTestOutput03" />
-        <item itemvalue="Application.IOTestOutput01" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +159,12 @@
       <workItem from="1582080227789" duration="14431000" />
       <workItem from="1582179911388" duration="4459000" />
       <workItem from="1582615141129" duration="321000" />
+      <workItem from="1583220758049" duration="6175000" />
+      <workItem from="1583384947927" duration="1341000" />
+      <workItem from="1583558930327" duration="59000" />
+      <workItem from="1583559022654" duration="3000" />
+      <workItem from="1583826136751" duration="5000" />
+      <workItem from="1583826150763" duration="4000" />
     </task>
     <servers />
   </component>
@@ -168,22 +176,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582615254513" />
-    <state width="1493" height="72" key="GridCell.Tab.0.bottom" timestamp="1582191504136">
+    <state width="1493" height="111" key="GridCell.Tab.0.bottom" timestamp="1583224634748">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="72" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582191504136" />
-    <state width="1493" height="72" key="GridCell.Tab.0.center" timestamp="1582191504136">
+    <state width="1493" height="111" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583224634748" />
+    <state width="1493" height="111" key="GridCell.Tab.0.center" timestamp="1583224634748">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="72" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582191504136" />
-    <state width="1493" height="72" key="GridCell.Tab.0.left" timestamp="1582191504136">
+    <state width="1493" height="111" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583224634748" />
+    <state width="1493" height="111" key="GridCell.Tab.0.left" timestamp="1583224634747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="72" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582191504136" />
-    <state width="1493" height="72" key="GridCell.Tab.0.right" timestamp="1582191504136">
+    <state width="1493" height="111" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583224634747" />
+    <state width="1493" height="111" key="GridCell.Tab.0.right" timestamp="1583224634748">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="72" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582191504136" />
+    <state width="1493" height="111" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583224634748" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1581843163690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -204,10 +212,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582084848221" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582615143086">
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583826137022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582615143086" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583826137022" />
     <state x="178" y="22" key="new project wizard" timestamp="1582615429065">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
